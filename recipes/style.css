@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+
+h1{
+    background-color:#DDB8A6;
+    color: #893F04;
+}
+
+h3{
+    background-color:#DDB8A6;
+    color: #893F04;
+}
+
+p{
+    background-color:#D49B7E;
+    color: #ffffff;
+}
+
+li{
+    background-color: #C2956E;
+    color: rgb(73, 47, 6);
+}
