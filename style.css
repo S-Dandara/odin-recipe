@@ -5,9 +5,27 @@
 h1{
     background-color:#E5D1B8;
     color: #DD8E58;
+    font-size: 30px;
+    width: auto;
 }
 
 li{
     background-color: #C2956E;
-    color: #2B2129;
+    width: auto;
 }
+
+body{
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
